@@ -1,0 +1,8 @@
+__pycache__ 
+data
+.ipynb_checkpoints
+mainsurvey_sqldump.txt
+satfaces_sqldump.txt
+*.db
+*.pl
+*.pt
